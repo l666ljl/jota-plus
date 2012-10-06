@@ -1,0 +1,71 @@
+Jota+ (Text Editor)
+
+Jota+ (i-o-ta plus) is a MAJOR UPDATE of Jota Text Editor.
+
+★New features of Jota+
+- Support multi-file feature!
+- Support external file systems! ( Dropbox, Box, SkyDrive etc )
+- Support root access!
+- Modern UI based on ICS!
+- Highlight searching words!
+
+(External FS and root access needs plugins. If you don't need them Jota+ doesn't connect to network.)
+
+★Many features successed from Jota Text Editor
+- Support 1 million characters.
+- Support many character codes and Auto-Detect feature.
+- Search/Replace (Support Regular Expression)
+- Support Install-shortcut feature.
+- Auto save.
+- Show Line numbers.
+- Show Tab/Linebreak mark.
+- Customizable Toolbar.
+- Customizable Syntax highlght.
+- Support physical-keyboard devices.
+- Support BlueTooth Keyboard. (Android 3.0 or later)
+- Support Android 2.2 or later. (Recommnded high-tier device)
+- Safe app without any ads and any evil permission requests.
+- And other good things from Jota Text Editor!
+
+★FREE for trial. So some features are locked.
+ Supports until 2 files at same time.
+ Cannot use external file systems and root access.
+ Cannot set background images.
+ Cannot use backup/restore preferences.
+
+ PRO-KEY app is now on sale! 
+
+★For donors of Jota Text Editor　(with Google Play Store).
+ You guys do not need to wait the PRO-KEY. All new features are unlocked for you.
+ Thanks for your donation. Please feedback!
+
+▼Jota+ doesn't support Right-to-Left language, too.
+
+▼Warning.
+ I prohibit to distribute Jota+ in places other than Google Play.
+ If you downloaded this app other than Google Play, it may be a malware.
+
+▼I don't reply to anything on Review Comments.
+ If you have trouble or suggestion, mail for me.
+ I may not reply to all request. But I'll read all mail. Thanks.
+
+▼To avoid to lose editing file, don't check "Auto Update".
+
+▼FAQ
+- Jota+ can't hide Action Bar and Tab Bar on the top of screen.
+  It's featured. Sorry.
+
+▼If you can't activate PRO-KEY, try following.
+  Make sure that your device is connected to internet and logged in to Google.
+  Confirm PRO-KEY is installed from System Settings.
+  Click Menu - Preference - Activate PRO-KEY.
+  reboot device and start Jota+.
+  uninstall and re-install Jota+ or PRO-KEY.
+
+- If you're donor of Jota Text Editor, install original Jota
+  and click Menu - preference - MISC - Activate Jota+ option.
+
+- If you have troubled with Activation, please mail to Developer.
+
+(c) 2012, Aquamarine Networks.
+
