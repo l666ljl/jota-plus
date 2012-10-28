@@ -4,7 +4,7 @@ Jota+ (i-o-ta plus) is a MAJOR UPDATE of Jota Text Editor.
 
 ★New features of Jota+
 - Support multi-file feature!
-- Support external file systems! ( Dropbox, Box, SkyDrive etc )
+- Support external file systems! ( Dropbox, Google Drive, Box, SkyDrive etc )
 - Support root access!
 - Modern UI based on ICS!
 - Highlight searching words!

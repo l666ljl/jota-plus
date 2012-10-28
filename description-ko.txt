@@ -4,7 +4,7 @@ Jota+(이오타 플러스)는 Jota Text Editor의 후속(상위) 버전입니다
 
 ★ Jota+의 새 기능
 - 다중 파일 작업 지원!
-- 외부 파일 시스템 지원! (Dropbox, Box, SkyDrive, 기타)
+- 외부 파일 시스템 지원! (Dropbox, Google Drive, Box, SkyDrive, 기타)
 - 루트 액세스 지원!
 - ICS 기반의 MODERN UI!
 - 검색 단어 강조(Highlight)!
