@@ -67,7 +67,7 @@ Jota+(이오타 플러스)는 Jota Text Editor의 후속(상위) 버전입니다
 
   - 그래도 인증 문제가 해결되지 않으면 개발자에게 문의 바랍니다.
 
-(c) 2012, Aquamarine Networks.
+(c) 2012-2013, Aquamarine Networks.
 
 
 ※ 번역자 주 (by 노아)

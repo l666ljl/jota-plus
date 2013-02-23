@@ -67,5 +67,5 @@ Jota+ (イオタ・プラス) は、Jota Text Editor のメジャーアップデ
 
 - アクティベートが出来ない場合は、作者までご連絡ください。
 
-(c) 2012, Aquamarine Networks.
+(c) 2012-2013, Aquamarine Networks.
 

@@ -67,5 +67,5 @@ Jota+ (i-o-ta plus) is a MAJOR UPDATE of Jota Text Editor.
 
 - If you have troubled with Activation, please mail to Developer.
 
-(c) 2012, Aquamarine Networks.
+(c) 2012-2013, Aquamarine Networks.
 
