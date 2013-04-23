@@ -3,69 +3,69 @@ Jota+ (Text Editor)
 Jota+ (i-o-ta plus) is a MAJOR UPDATE of Jota Text Editor.
 
 ★New features of Jota+
-- Support multi-file feature!
-- Support external file systems! ( Dropbox, Google Drive, Box, SkyDrive etc )
-- Support root access!
+- Supports multi-file!
+- Supports external file systems! (Dropbox, Google Drive, Box, SkyDrive, etc.)
+- Supports root access!
 - Modern UI based on ICS!
 - Highlight searching words!
 
-(External FS and root access needs plugins. If you don't need them Jota+ doesn't connect to network.)
+(External FS and root access need plugins. If you don't need these featues, Jota+ will simply not connect to these services.)
 
 ★Many features successed from Jota Text Editor
-- Support 1 million characters.
-- Support many character codes and Auto-Detect feature.
-- Search/Replace (Support Regular Expression)
-- Support Install-shortcut feature.
+- Supports 1 million characters.
+- Supports many different encodings and auto detection.
+- Search/Replace (supports Regular Expressions)
+- Supports the Install-shortcut feature.
 - Auto save.
 - Show Line numbers.
-- Show Tab/Linebreak mark.
+- Show Tab/Linebreak marks.
 - Customizable Toolbar.
-- Customizable Syntax highlght.
-- Support physical-keyboard devices.
-- Support BlueTooth Keyboard. (Android 3.0 or later)
-- Support Android 2.2 or later. (Recommnded high-tier device)
+- Customizable syntax highlghting.
+- Supports devices with physical keyboards.
+- Support BlueTooth Keyboards. (Android 3.0 or later)
+- Supports Android 2.2 or later. (Recommnded high-tier device)
 - Safe app without any ads and any evil permission requests.
 - And other good things from Jota Text Editor!
 
-★FREE for trial. So some features are locked.
- Supports until 2 files at same time.
+★FREE for evaluation. Some features are locked in the trial version:
+ Supports at most 2 files opened simultaneously.
  Cannot use external file systems and root access.
  Cannot set background images.
  Cannot use backup/restore preferences.
 
- PRO-KEY app is now on sale! 
+ The PRO-KEY app is now on sale! 
 
 ★For donors of Jota Text Editor　(with Google Play Store).
  You guys do not need to wait the PRO-KEY. All new features are unlocked for you.
  Thanks for your donation. Please feedback!
 
-▼Jota+ doesn't support Right-to-Left language, too.
+▼Jota+ doesn't support Right-to-Left languages, too.
 
 ▼Warning.
- I prohibit to distribute Jota+ in places other than Google Play.
- If you downloaded this app other than Google Play, it may be a malware.
+ I prohibit the distribution of Jota+ on places other than Google Play.
+ If you downloaded this app from any other place, it may be a malware.
 
 ▼I don't reply to anything on Review Comments.
- If you have trouble or suggestion, mail for me.
- I may not reply to all request. But I'll read all mail. Thanks.
+ If you have troubles or suggestions, send me an email.
+ I may not reply to all requests. But I'll read all messages. Thanks.
 
-▼To avoid to lose editing file, don't check "Auto Update".
+▼To avoid losing your work while editing files, don't check "Auto Update".
 
 ▼FAQ
-- Jota+ can't hide Action Bar and Tab Bar on the top of screen.
+- Jota+ can't hide Action Bar and Tab Bar on the top of the screen.
   It's featured. Sorry.
 
-▼If you can't activate PRO-KEY, try following.
-  Make sure that your device is connected to internet and logged in to Google.
-  Confirm PRO-KEY is installed from System Settings.
-  Click Menu - Preference - Activate PRO-KEY.
-  reboot device and start Jota+.
+▼If you can't activate the PRO-KEY, try the following.
+  Make sure that your device is connected to the internet and logged into Google.
+  Confirm that PRO-KEY is installed in System Settings.
+  Click Menu - Preferences - Activate PRO-KEY.
+  reboot the device and start Jota+.
   uninstall and re-install Jota+ or PRO-KEY.
 
-- If you're donor of Jota Text Editor, install original Jota
-  and click Menu - preference - MISC - Activate Jota+ option.
+- If you're donor of Jota Text Editor, install the original Jota
+  and click Menu - Preferences - MISC - Activate Jota+ option.
 
-- If you have troubled with Activation, please mail to Developer.
+- If you have troubles with the activation, please send an email to the developer.
 
 (c) 2012-2013, Aquamarine Networks.
 
