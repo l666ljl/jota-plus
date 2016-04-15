@@ -1,0 +1,1 @@
+Jota+ is a next generation of Jota Text Editor.
